@@ -1,6 +1,6 @@
 # FaraFIN Design
 
-Designed the official branding for the "Fachschaftsrat der Fakultät für Informatik (FIN)" at the Otto-von-Guericke-Universität in Magdeburg using my  skills and judgement for designing. Project task was to reinvent the “FIN” logo of the university council with their symbol of an elephant. Below are my designs, which after feedback were approved in 2 months. These designs are to be found at the official Instagram page of the Fachschaftsrat and also on their website, www.farafin.de. Good times! 
+Designed the official branding for the "Fachschaftsrat der Fakultät für Informatik (FIN)" at the Otto-von-Guericke-Universität in Magdeburg using my  skills and judgement for designing. Project task was to reinvent the “FIN” logo of the university council with their symbol of an elephant. Below are my designs, which after feedback were approved in 2 months. These designs are to be found at [the official Instagram page](https://www.instagram.com/farafin_md/) of the Fachschaftsrat and also on their [website](www.farafin.de). Good times! 
 
 ![FIN_stamp_blue](https://user-images.githubusercontent.com/75858676/226184404-53c2f6fe-41b8-45db-96bd-2f2d33e33b3c.svg)
 ![FIN_blue](https://user-images.githubusercontent.com/75858676/226184412-aac7ef62-f4e1-41cb-9d59-13f54fe6e02b.svg)
